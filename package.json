@@ -2,7 +2,7 @@
   "name": "y",
   "version": "1.0.0",
   "description": "y",
-  "main": "y",
+  "main": "index.js",
 
   "repository": {
     "type": "git",
